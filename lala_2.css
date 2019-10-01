@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#all{
+	width:1000px;
+	height:200px;
+	background-color:rgba(244,185,10,1.00);	
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:30px;
+}
+#a1{
+	width:200px;
+	height:200px;
+	position:absolute;
+	margin-left:100px;
+}
+#b1{
+	width:200px;
+	height:200px;
+	float:left;
+	position:absolute;
+	margin-left:400px;
+}
+#c1{
+	width:200px;
+	height:200px;
+	float:left;
+	position:absolute;
+	margin-left:700px;
+}
+#smallbar{
+	width:50px;
+	height:50px;
+	position:absolute;
+	float:left;
+	margin-left:930px;
+	margin-top:75px;
+}
+#foot{
+	width:1000px;
+	height:500px;
+	background-image:url(images/lala/images/22.png);
+	margin-left:auto;
+	margin-right:auto;
+	top:200px;
+	border-radius:30px;
+}
+#adbar{
+	position:fixed;
+	z-index:9999;
+	top:540px;
+	right:1080px;
+	width:200px;
+	height:350px;	
+}

@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#alltext{
+	width:750px;
+	height:1400px;
+	margin-right:auto;
+	margin-left:auto;
+	z-index:-999px;
+	position:absolute;
+}
+
+#bar{
+	width:50px;
+	height:1240px;
+	margin-left:325px;
+	margin-right:auto;
+	z-index:999;
+	position:absolute;
+}
+#all{
+	width:750px;
+	height:1500px;
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(images/history/images/background.jpg);
+	background-repeat:no-repeat;	
+}
+
+#righttext1{
+	width:750px;
+	height:170px;
+	margin-top:25px;
+	position:relative;
+}
+
+#lefttext1{
+	width:750px;
+	height:170px;
+	position:absolute;
+}
+
+#righttext2{
+	width:750px;
+	height:170px;
+	top:365px;
+	position:absolute;
+}
+#lefttext2{
+	width:750px;
+	height:170px;
+	top:535px;
+	position:absolute;	
+}
+#righttext3{
+	width:750px;
+	height:170px;
+	top:705px;
+	position:absolute;
+	}
+#lefttext3{
+	width:750px;
+	height:170px;
+	top:875px;
+	position:absolute;
+}
+#righttext4{
+	width:750px;
+	height:170px;
+	top:1045px;
+	position:absolute;
+}
+#lefttext4{
+	width:300px;
+	height:500px;
+	top:1215px;
+	position:absolute;
+}
+#adbar{
+	position:fixed;
+	z-index:9999;
+	top:540px;
+	right:1080px;
+	width:200px;
+	height:350px;	
+}
+
